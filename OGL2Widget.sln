@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OGL2Widget", "OGL2Widget\OGL2Widget.vcxproj", "{AB722290-9569-476F-94ED-DC21F1AF4CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB722290-9569-476F-94ED-DC21F1AF4CFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AB722290-9569-476F-94ED-DC21F1AF4CFE}.Debug|Win32.Build.0 = Debug|Win32
+		{AB722290-9569-476F-94ED-DC21F1AF4CFE}.Release|Win32.ActiveCfg = Release|Win32
+		{AB722290-9569-476F-94ED-DC21F1AF4CFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
